@@ -6,3 +6,6 @@ Classic gold 🥇🥇 digger game.
 
 ## Let's Play Together!
 
+
+### Loading game
+![image](https://user-images.githubusercontent.com/107022820/178990105-3ea950c0-16a1-4f33-8a1e-4d22fc9071ac.png)
